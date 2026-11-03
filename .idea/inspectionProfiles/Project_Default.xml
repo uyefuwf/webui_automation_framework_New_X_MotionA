@@ -1,0 +1,41 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="allure-pytest" />
+          <option value="allure-python-commons" />
+          <option value="jsonschema" />
+          <option value="jsonschema-specifications" />
+          <option value="lockfile" />
+          <option value="locust" />
+          <option value="locust-cloud" />
+          <option value="louis" />
+          <option value="lxml" />
+          <option value="macaroonbakery" />
+          <option value="Mako" />
+          <option value="MarkupSafe" />
+          <option value="mcp" />
+          <option value="onvif-zeep" />
+          <option value="opencv-python" />
+          <option value="platformdirs" />
+          <option value="playwright" />
+          <option value="pydantic" />
+          <option value="pydantic-settings" />
+          <option value="pydantic_core" />
+          <option value="pytest" />
+          <option value="pytest-base-url" />
+          <option value="pytest-html" />
+          <option value="pytest-metadata" />
+          <option value="pytest-ordering" />
+          <option value="pytest-playwright" />
+          <option value="pytest-rerunfailures" />
+          <option value="pytest-xdist" />
+          <option value="python-apt" />
+          <option value="requests" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
